@@ -2,7 +2,7 @@ package aa;
 
 import java.util.List;
 
-public class Employer {
+public class Employer { 
 	String name;
 	String industry;
 	

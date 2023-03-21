@@ -29,7 +29,7 @@ public class Mainquiz {
 		Person p2 = new Person("Walt", 120, p2_address);
 		
 		List<Person> emp_game = new ArrayList<Person>();
-		emp_game.add(p1);
+		emp_game.add(p1); 
 		emp_game.add(p2);
 		
 //		name, industry, employee

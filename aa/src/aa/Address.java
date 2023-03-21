@@ -4,7 +4,7 @@ package aa;
 public class Address {
 	String street;
 	String city;
-	String state;
+	String state; 
 
 	
 	Address(String street, String city, String state){
